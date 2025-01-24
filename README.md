@@ -1,4 +1,5 @@
 # Blinkit Dashboard
+
 This project analyzes sales data for Blinkit, focusing on grocery sales performance. Highlights include:
 
 1.Performance Metrics:
